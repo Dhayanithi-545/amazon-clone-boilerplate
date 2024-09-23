@@ -1,0 +1,76 @@
+.logo{
+  margin-top: 5px;
+  display: inline;
+}
+
+
+.loc{
+  inline-size: 30px;
+  margin-left: 5px;
+}
+
+.span1{
+  color: white;
+}
+
+.locs{
+  color: white;
+  display: inline;
+  color: white;
+
+}
+
+.search{
+  width: 370px;
+  height: 40px;
+}
+.all{
+  height: 35px;
+  width: ;
+  
+}
+.topnav{
+  background-color: rgb(14, 14, 46);
+  overflow: hidden;
+}
+
+.flag{
+  margin-left: 10px;
+}
+
+.secondbar{
+  background-color: rgb(11, 25, 37);
+  display: flex;
+  justify-content: flex;
+
+}
+
+ul{
+  gap: 15px;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  /* margin-left: 2; */
+  padding: none;
+  color: white;
+}
+
+div.down{
+  display: inline-block;
+  background-image: url(amazon-clone-boilerplate/assets/background\ picture.png) ;
+
+  height: 900px;
+  width: 1400px;
+  object-fit: fill;
+}
+
+.box1{
+  height: 300px;
+  width: 380px;
+  /* background-color: #fff; */
+
+  margin-left: 30px;
+  margin top:20px;
+  
+  
+}
